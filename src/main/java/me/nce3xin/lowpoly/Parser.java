@@ -8,14 +8,7 @@ import java.io.IOException;
 /**
  * Created by nce3xin on 2017/10/25.
  */
-class Configure {
-    public int pointCount;
-    public int accuracy;
-    public boolean fill;
 
-    public Configure() {
-    }
-}
 
 public class Parser {
     public static Configure parseParam(String filePath) {
