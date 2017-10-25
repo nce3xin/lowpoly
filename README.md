@@ -1,7 +1,7 @@
 ## Low Poly风格图片生成器
 低多边形（Low Poly）是一种设计风格，是把多色元素，用三角形分割，每个小三角形的颜色，取自原多色元素的相应位置。
 ## 效果图
-![](image/firefox_lowpoly.png)
+![](image/hamberger_lowpoly.jpg)
 ## 用法
 ```java
 Configure config = Parser.parseParam("config/config.param");
