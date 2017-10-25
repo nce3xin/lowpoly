@@ -102,7 +102,7 @@
         <entry file="file://$PROJECT_DIR$/config/config.param">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
-              <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+              <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -793,7 +793,7 @@
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" value="me.nce3xin.lowpoly.Main" />
       <option name="VM_PARAMETERS" value="" />
-      <option name="PROGRAM_PARAMETERS" value="image/a.jpg image/my_lowpoly.jpg" />
+      <option name="PROGRAM_PARAMETERS" value="image/hamberger.jpg image/hamberger_lowpoly.jpg" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -845,12 +845,12 @@
       <workItem from="1508807330261" duration="30670000" />
       <workItem from="1508893802628" duration="12075000" />
       <workItem from="1508907870449" duration="136000" />
-      <workItem from="1508908567595" duration="8508000" />
+      <workItem from="1508908567595" duration="9328000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="63862000" />
+    <option name="totallyTimeSpent" value="64682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -1186,7 +1186,7 @@
     <entry file="file://$PROJECT_DIR$/config/config.param">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
-          <caret line="2" column="8" lean-forward="false" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+          <caret line="2" column="9" lean-forward="true" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding />
         </state>
       </provider>
