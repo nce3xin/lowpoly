@@ -1,4 +1,6 @@
 # Lowpoly Style Image Generator
+![](https://img.shields.io/github/license/nce3xin/lowpoly.svg)
+
 Low poly is a polygon mesh in 3D computer graphics that has a relatively small number of polygons. Low poly meshes occur in real-time applications (e.g. games) as contrast with high poly meshes in animated movies and special effects of the same era. The term low poly is used in both a technical and a descriptive sense; the number of polygons in a mesh is an important factor to optimize for performance but can give an undesirable appearance to the resulting graphics.
 
 ## Table of Contents
